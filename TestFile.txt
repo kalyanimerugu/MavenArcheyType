@@ -1,1 +1,4 @@
 text file  created
+Hello world
+Iam good
+Nice paly
